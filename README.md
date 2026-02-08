@@ -28,3 +28,12 @@ Analyze used car listings to understand:
 - Aggregation with groupby
 - Boolean filtering
 - Building summary DataFrames
+
+## ✅ Conclusion
+Premium brands have higher prices while budget brands show lower pricing trends.  
+Mileage and registration year strongly influence car prices.
+
+## ▶ How to Run
+1. Install pandas
+2. Open notebook in Jupyter
+3. Run all cells
